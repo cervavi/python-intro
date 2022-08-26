@@ -1,0 +1,43 @@
+﻿Name,Breakfast,Location,Type
+McDonalds,Y,All,Fast Food
+Starbucks,Y,All,Sandwhich
+Wendy's,Y,All,Fast Food
+Burger King,Y,All,Fast Food
+Taco Bell,Y,All,Fast Food
+Chick fil a,Y,All,Fast Food
+Pizza Hut,N,East,Casual Dining
+DomiN's,N,All,Casual Dining
+Panera Bread,Y,All,Casual Dining
+Sonic,N,East,Fast Food
+KFC,N,All,Fast Food
+Carl's Jr.,Y,West,Fast Food
+Dairy Queen,N,All,Dessert
+Abry's,N,All,Fast Food
+Little Ceasers,N,All,Casual Dining
+Jack in the box,N,West,Fast Food
+PopeY,Y,All,Casual Dining
+Papa John's,N,All,Casual Dining
+Panda Express,N,All,Casual Dining
+Whataburger,N,East,Casual Dining
+Jimmy John's,N,All,Sandwhich
+Zaxby's,N,East,Casual Dining
+Five Guys,N,All,Fast Food
+Culver's,N,All,Dessert
+Bojangle's,N,East,Casual Dining
+Steak n Shake,N,East,Dessert
+Wingstop,N,All,Fast Food
+Papa Murphy's,N,All,Casual Dining
+Checkers/Rally's,N,East,Casual Dining
+Jersey Mike's,N,All,Sandwhich
+Qdoba,N,All,Casual Dining
+Church's Chicken,N,East,Fast Food
+El Pollo Loco,N,West,Fast Food
+Moes southwest grill,N,East,Casual Dining
+Firehouse subs,N,All,Sandwhich
+Boston Market ,N,All,Casual Dining
+Jason's deli,Y,All,Sandwhich
+McAlisters Deli,N,East,Sandwhich
+Nodles & Company,N,All,Casual Dining
+Auntie Anne's,N,All,Fast Food
+Captain D's,N,East,Casual Dining
+Jamba Juice ,Y,All,Casual Dining
